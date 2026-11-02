@@ -175,8 +175,8 @@
 - 보안을 위해 ChatGPT 공유계정 비밀번호는 분기별(또는 90일 이내) 바뀔 수 있고, 대화 기록도 삭제될 수 있어요.
 ## 계정 정보 – ChatGPT (부서별 공유계정)
 | 부여 대상 | 계정 | 계정 문의 |
-| 플랫폼개발그룹 | dev@enerdot.co.kr | CoS실 |
-| 사업개발그룹 | biz@enerdot.co.kr | CoS실 |
-| PO그룹 | po@enerdot.co.kr | CoS실 |
-- SSO가 아닌 위 이메일과 비밀번호로 접속해요. 공유받은 계정 정보는 다른 부서원과 공유하지 말아 주세요.
+| 플랫폼개발그룹 | dev@enerdot.co.kr | CoS실 Henry |
+| 사업개발그룹 | biz@enerdot.co.kr | CoS실 Henry |
+| PO그룹 | po@enerdot.co.kr | CoS실 Henry |
+- 공유받은 계정 정보는 다른 부서원과 공유하지 말아 주세요.
 - 본인 회사 이메일 계정으로 로그인해요. (마지막 업데이트: 2026-11)
