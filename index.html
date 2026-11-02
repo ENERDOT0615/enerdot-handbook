@@ -194,10 +194,11 @@ function inl(s){
   let h=esc(s);
   h=h.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/`(.+?)`/g,'<code>$1</code>');
   h=h.replace(/\[\[([\w-]+)\]\]/g,(m,id)=>byId[id]?`<a class="xref" href="#${id}">${byId[id].title}</a>`:m);
+  h=h.replace(/\[([^\[\]]+)\]\(([^\s)]+)\)/g,'<a class="xref" href="$2" target="_blank" rel="noopener">$1</a>');
   h=h.replace(/(^|[\s(])(https?:\/\/[^\s)<]+)/g,'$1<a class="xref" href="$2" target="_blank" rel="noopener">$2</a>');
   return h;
 }
-const plain=s=>s.replace(/\*\*|`/g,'').replace(/\[\[([\w-]+)\]\]/g,(m,id)=>byId[id]?byId[id].title:'');
+const plain=s=>s.replace(/\*\*|`/g,'').replace(/\[([^\[\]]+)\]\(([^\s)]+)\)/g,'$1').replace(/\[\[([\w-]+)\]\]/g,(m,id)=>byId[id]?byId[id].title:'');
 function texts(p){const o=[];for(const b of p.blocks){if(b.x)o.push(b.x);if(b.i)o.push(...b.i);if(b.r)b.r.forEach(r=>o.push(r.join(' · ')))}return o.map(plain)}
 let sensN=0,chkN=0;
 function tags(p){let t='';if(p.new)t+='<span class="tag new">업데이트</span>';if(p.sens.length)t+='<span class="tag sen">⚠️ 확인</span>';else if(p.check)t+='<span class="tag chk">내용 확인</span>';return t}

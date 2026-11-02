@@ -16,8 +16,9 @@
 - 고객센터: 1644-4073 / 법인 대표번호: 02-584-9602
 - FAX: 02-584-9604
 ## 참고 자료
-- 사업자등록증 (2026.07.16 발급, PDF)
-- 통장사본 (PDF)
+- [사업자등록증 (2026.07.16 발급, PDF)](assets/docs/business-registration.pdf)
+- [통장사본 (농협, PDF)](assets/docs/bank-account.pdf)
+- 파일 이름을 누르면 새 창에서 열려요. 저장하려면 PDF 화면의 다운로드 버튼을 눌러요.
 ## 구역별 와이파이
 @img assets/wifi-map.jpg | 구역별 와이파이 배치도
 | 와이파이 (ID) | 비밀번호 (PW) |
@@ -26,7 +27,6 @@
 | enerdot_office2 | envision_88 |
 | enerdot_guest | enerdot2026! |
 - 내 자리 구역의 와이파이는 위 배치도에서 확인해요. 이미지를 누르면 크게 볼 수 있어요.
-@note 사업자등록증과 통장사본 PDF는 Notion 원문에서 내려받으세요.
 
 
 @@ id=values | cat=about | group=에너닷 A to Z | icon=🤝 | title=핵심 가치 | url=https://app.notion.com/p/b0f3f1aa22524b93a007545a2b956222
