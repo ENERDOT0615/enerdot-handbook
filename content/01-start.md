@@ -155,7 +155,7 @@
 @note 첨부 파일은 Notion 원문에서 내려받으세요.
 
 
-@@ id=chatgpt | cat=start | group=협업툴 101 | icon=🤖 | title=AI Tool (ChatGPT, Claude) | url=https://app.notion.com/p/1cb06d84bbf480a09646dacf08e8b2aa
+@@ id=chatgpt | cat=start | group=협업툴 101 | icon=🤖 | title=AI Tool (ChatGPT, Claude) | url=https://app.notion.com/p/1cb06d84bbf480a09646dacf08e8b2aa | new=2026-11-02
 @summary ChatGPT와 Claude의 신청 방법과 이용 규칙, 보안 유의사항입니다.
 @kw ChatGPT GPT AI 챗GPT Claude 클로드 계정 신청 공유계정 프로젝트 보안 개인정보 저작권
 - 업무 효율을 위해 ChatGPT와 Claude 사용을 지원해요.

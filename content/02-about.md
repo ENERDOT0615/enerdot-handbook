@@ -1,6 +1,6 @@
 %% ===== 에너닷이 궁금하다면 ===== (작성법은 README.md 참고, %%로 시작하는 줄은 화면에 안 보여요)
 
-@@ id=company | cat=about | group=에너닷 A to Z | icon=🏘️ | title=회사 정보 | url=https://app.notion.com/p/2b3243ca738741ab807b6c34d2246207
+@@ id=company | cat=about | group=에너닷 A to Z | icon=🏘️ | title=회사 정보 | url=https://app.notion.com/p/2b3243ca738741ab807b6c34d2246207 | new=2026-11-02
 @summary 대표자, 사업자등록번호, 주소, 대표 연락처, 사업자등록증·통장사본, 구역별 와이파이 정보입니다.
 @kw 회사정보 사업자등록번호 법인등록번호 사업자등록증 통장사본 주소 전화 팩스 FAX 고객센터 와이파이 wifi 비밀번호 게스트 guest 대표 설립
 - 추가로 필요한 회사 정보가 있다면 Genie에게 전달해 주세요.
