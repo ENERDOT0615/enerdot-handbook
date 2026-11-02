@@ -68,7 +68,7 @@
 - 재생에너지 하면 에너닷이 떠오르는, 에너지 IT 업계에 한 획을 긋는 기업이 목표예요. 확보한 데이터를 기반으로 다양한 자동화 솔루션을 제공하는 키 플레이어가 되려 해요.
 
 
-@@ id=teams | cat=about | group=Team 소개 | icon=👩‍👩‍👧‍👦 | title=그룹/팀 소개 | url=https://app.notion.com/p/49828c46bd88462a94ed94c69b878653 | new=1
+@@ id=teams | cat=about | group=Team 소개 | icon=👩‍👩‍👧‍👦 | title=그룹/팀 소개 | url=https://app.notion.com/p/49828c46bd88462a94ed94c69b878653
 @summary 그룹·팀별 업무와 총괄, 조직도·자리배치도·구성원 연락처 링크입니다.
 @kw 조직도 팀 그룹 자리배치도 자리 연락처 CoS BO CO 플랫폼개발 솔루션 플랫폼기획 AX 전략기획 시스템개발 PO 에너지금융 사업개발 에너지인프라 HR 재무 회계 마케팅
 - 구성원 자리배치도 (구글 슬라이드), 조직도 및 구성원 연락처 (구글 시트), 에너닷 조직도 PDF(2026.09.01 v1)는 Notion 원문 링크에서 확인해요.

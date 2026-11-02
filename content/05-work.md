@@ -84,7 +84,7 @@
 > 현재 평가 제도를 내부에서 조율하고 있어요. 세부 내용이 확정되는 대로 이 페이지에 업데이트할게요.
 
 
-@@ id=jandi-guide | cat=work | group=에너닷에서 일하는 법 | icon=✅ | title=잔디 채널 운영 가이드 | url=https://app.notion.com/p/30c06d84bbf4802b8becfb3552ceaff1 | new=1
+@@ id=jandi-guide | cat=work | group=에너닷에서 일하는 법 | icon=✅ | title=잔디 채널 운영 가이드 | url=https://app.notion.com/p/30c06d84bbf4802b8becfb3552ceaff1
 @summary 잔디 채널 Prefix 규칙, 이름 짓는 법, TF·PJT·협업 구분, 생성 체크리스트와 정리 시점입니다.
 @kw 잔디 채널 토픽 이름 Prefix TF PJT 협업 문의 부서 채널명 생성 정리 삭제 승인
 ## 왜 필요한가요?

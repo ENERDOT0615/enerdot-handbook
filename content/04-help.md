@@ -98,7 +98,7 @@
 - **경조사 신청**
 
 
-@@ id=pc | cat=help | group=업무 지원 | icon=💻 | title=PC 가이드 | url=https://app.notion.com/p/2f606d84bbf4800eb7a8dc81cad0b2e9 | new=1
+@@ id=pc | cat=help | group=업무 지원 | icon=💻 | title=PC 가이드 | url=https://app.notion.com/p/2f606d84bbf4800eb7a8dc81cad0b2e9
 @summary 2026년 직군별 노트북 표준 사양, 교체 기준, 입사·퇴사 시 노트북 운영 가이드입니다.
 @kw PC 노트북 컴퓨터 맥북 Mac 그램 갤럭시북 사양 교체 반납 퇴사 입사 분실 파손 업그레이드
 - 업무 효율과 자산 관리를 위한 사내 노트북 기종 및 운영 기준(2026년)이에요.
@@ -223,7 +223,7 @@
 - 디포스트 이용 가이드 PDF는 Notion 원문에 있어요.
 
 
-@@ id=license | cat=help | group=업무 지원 | icon=🎓 | title=자격수당 지원 | url=https://app.notion.com/p/25606d84bbf48007b8a4c08612815d85 | new=1
+@@ id=license | cat=help | group=업무 지원 | icon=🎓 | title=자격수당 지원 | url=https://app.notion.com/p/25606d84bbf48007b8a4c08612815d85
 @summary 회사 기술인력으로 등재된 직원에게 지급하는 자격수당의 인정 범위, 등급별 금액, 지급 절차입니다.
 @kw 자격수당 수당 자격증 기술인력 기술자 등재 기사 산업기사 기능장 전기기사 정보처리기사 산업안전기사
 - 자격증 **취득** 지원은 복지 페이지를 참고하세요. → [[welfare]]
