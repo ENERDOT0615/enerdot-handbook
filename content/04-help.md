@@ -4,6 +4,11 @@
 @summary 견적서, 발주서, 계약서 등 회사 인감 날인이 필요할 때 신청하는 방법입니다.
 @kw 인감 날인 도장 직인 견적서 발주서 계약서 협약서 합의서 공문 전자계약 문서양식 법률자문
 - 실무에 필요한 각종 문서 양식은 공유 폴더(구글 드라이브)에서 내려받아 쓸 수 있어요. (Notion 원문 링크)
+@img assets/notion/seal/01.jpg | 문서 날인 & 법률 자문 요청 가이드 표지
+@img assets/notion/seal/02.jpg | 문서 날인 프로세스 한눈에 보기 (STEP 1~5)
+@img assets/notion/seal/03.jpg | STEP 1 플렉스 전자결재 상신하기 (문서 날인·법률자문 양식 선택과 내용 작성)
+@img assets/notion/seal/04.jpg | STEP 2~3 총무담당자 날인 요청, 양사 날인 후 스캔·실물 보관
+@img assets/notion/seal/05.jpg | STEP 4 스캔본 구글 설문폼 작성하기
 ## 날인 유형
 - 견적서, 발주서, 계약서, 협약 또는 합의서, 공문, 그 외 기타
 ## 이용 방법
@@ -11,7 +16,6 @@
 - 최종 문서 보관을 위해, 당사자 간 날인이 완료된 계약서 등은 담당자에게 1부 최종 제출해요.
 - 오후 3시 이후 접수 건은 당일 처리가 어려울 수 있어요.
 - 선 날인이 필요한 경우 거래처 동의 하에 전자계약을 선택할 수 있어요. → [[flex]]
-@note ‘문서 날인 및 법률 자문 가이드’ 상세 내용은 이미지 5장으로 되어 있어 Notion 원문에서 확인하세요.
 
 
 @@ id=purchase | cat=help | group=결재 관련 업무 | icon=💸 | title=구매 신청 | url=https://app.notion.com/p/4c58c3a150ac4c40ad2f30a95931d8dc
@@ -50,6 +54,7 @@
 @kw 대금 지급 거래처 송금 결제 세금계산서 매입
 - 거래처에 대금 지급이 필요하면 플렉스에서 **전자결재(거래처 대금 지급 요청)**를 등록해요.
 ! 거래처에 세금계산서를 요청할 때는 **본인 메일 주소로 발행**해 달라고 요청해 주세요.
+@img assets/notion/payment/01.png | 플렉스 비용 탭에서 세금계산서 발행내역을 클릭해 대금 지급 요청을 제출하는 화면
 
 
 @@ id=invoice | cat=help | group=결재 관련 업무 | icon=📃 | title=계산서 발행 요청 | url=https://app.notion.com/p/24fcf301f6174768995943486dbd7c73
@@ -152,7 +157,8 @@
 - **법인차량**: 왕복 6시간 이내 출장지는 법인차량을 우선 이용하고, 안전을 위해 2인 1조로 수행해요. → [[car]]
 - **카카오T**(전 직원): 택시 호출·예약, 철도 예약, 퀵 배송, 편의점 택배
 - **쏘카**(신청자에 한함): 렌터카 예약
-- 카카오T 비즈니스, 쏘카 비즈니스 이용 가이드 PDF는 Notion 원문에 있어요.
+- [카카오T 비즈니스 이용 가이드 (PDF)](assets/notion/trip/01-kakaot-business-guide.pdf)
+- [쏘카 비즈니스 구성원 가이드 (PDF)](assets/notion/trip/02-socar-business-guide.pdf)
 ## 출장여비 기준
 | 항목 | 지급 수단 | 금액 기준 | 비고 |
 | 교통비 | 법인카드 | 실비 | 현장결제는 팀별 지정 법인카드로만 |
@@ -180,7 +186,12 @@
 1. 구글캘린더 왼쪽 하단 다른 캘린더 > 리소스 찾기에서 법인차량을 추가해요. 다른 사람의 예약 현황도 볼 수 있어요.
 2. 예약할 날짜에 새 일정을 만들고 일정 이름, 시간을 자세히 적은 뒤 법인차량을 선택해요.
 3. 이미 예약된 시간에는 선택이 안 돼요.
-- 안전운전 실천 서약서와 카택스 앱 사용 가이드 PDF는 Notion 원문에서 내려받으세요.
+@img assets/notion/car/01.png | 1단계: 구글캘린더 다른 캘린더 메뉴에서 ‘리소스 찾아보기’ 선택
+@img assets/notion/car/02.png | 1단계: 리소스 목록에서 법인차량(투싼) 체크
+@img assets/notion/car/03.png | 2단계: 새 일정에 일정 이름·시간을 적고 회의실 탭에서 법인차량(투싼) 선택
+@img assets/notion/car/04.png | 3단계: 이미 예약된 시간에는 법인차량이 ‘사용할 수 없는 회의실’로 표시됨
+- [안전운전 실천 서약서 (PDF)](assets/notion/car/05-safe-driving-pledge.pdf)
+- [카택스 비즈 앱 사용 가이드 (PDF)](assets/notion/car/06-cartax-biz-app-guide.pdf)
 
 
 @@ id=safety | cat=help | group=업무 지원 | icon=🚧 | title=전사 안전 교육 | url=https://app.notion.com/p/18506d84bbf480408da0fc4b8e49828a
@@ -190,7 +201,13 @@
 - 산업안전보건법에 따라 산업재해를 예방하고 안전한 작업 환경을 만들기 위한 교육이에요.
 - 주기: 연 1회 / 대상: 전 임직원
 - 방법: 사내 게시판 게시 및 온라인 배포 후 교육일지 서명
-- 교육 자료(건강장해, 계절별 작업특성, 보호구, 소방안전, 응급조치)는 Notion 원문에서 내려받으세요.
+- 교육 자료 (출처: 고용노동부 지정 안전관리전문기관)
+- [안전보건교육 – 건강장해와 작업특성 (PDF)](assets/notion/safety/01-health-hazards.pdf)
+- [안전보건교육 – 계절과 작업특성 1 (PDF)](assets/notion/safety/02-seasonal-work-1.pdf)
+- [안전보건교육 – 계절과 작업특성 2 (PDF)](assets/notion/safety/03-seasonal-work-2.pdf)
+- [안전보건교육 – 보호구 (PDF)](assets/notion/safety/04-protective-gear.pdf)
+- [안전보건교육 – 소방안전 (PDF)](assets/notion/safety/05-fire-safety.pdf)
+- [안전보건교육 – 응급조치 (PDF)](assets/notion/safety/06-first-aid.pdf)
 ## 태양광발전소 현장 안전 교육
 - 주기: 반기 1회 / 방법: 집체 교육(1시간)
 - 대상: 태양광 발전 설비 점검 등 현장 업무를 수행하는 직원
@@ -206,6 +223,7 @@
 @kw 등기 택배 퀵 퀵서비스 우편 발송 배송 디포스트 dpost 접수코드 마감 무인발송
 - 디포스트는 PC와 모바일에서 회사 이메일 계정으로 퀵·등기·택배를 접수할 수 있는 서비스예요.
 - 무인발송 스테이션 위치: **비상용 엘리베이터 선반 위 (우측)**
+@img assets/notion/post/01.jpg | 디포스트 회원전용 무인발송 스테이션 안내판
 ## 로그인
 1. 접속: dpost.co.kr (PC/모바일)
 2. 아이디: 본인 회사 이메일
@@ -220,7 +238,7 @@
 ## 위탁과 조회
 1. 접수코드를 붙인 물품을 비상용 엘리베이터 우측 디포스트 무인발송 스테이션 배송함에 넣어요.
 2. ‘주문 조회’ 메뉴에서 수거·배송 상태와 운송장을 실시간으로 확인해요.
-- 디포스트 이용 가이드 PDF는 Notion 원문에 있어요.
+- [디포스트(DPOST) 이용 가이드 (PDF)](assets/notion/post/02-dpost-guide.pdf)
 
 
 @@ id=license | cat=help | group=업무 지원 | icon=🎓 | title=자격수당 지원 | url=https://app.notion.com/p/25606d84bbf48007b8a4c08612815d85

@@ -33,7 +33,14 @@
 @summary 책임과 자율, 협업과 건설적 피드백을 바탕으로 한 에너닷의 핵심 가치입니다.
 @kw 핵심가치 가치 문화 책임 자율 협업 피드백
 - 에너닷은 각자 맡은 업무에 책임과 자율성을 부여하고, 협업의 중요성을 바탕으로 건설적인 피드백 문화를 지향해요.
-@note 핵심 가치 상세 내용은 이미지 8장으로 되어 있어 Notion 원문에서 확인하세요.
+@img assets/notion/values/01.jpg | 우리는 함께 일하는 조직입니다.
+@img assets/notion/values/02.jpg | 주체적인 사고와 책임감을 가지고 일합니다.
+@img assets/notion/values/03.jpg | 가장 완성도 높은 결과를 목표로 합니다.
+@img assets/notion/values/04.jpg | 열린 자세로 소통합니다.
+@img assets/notion/values/05.jpg | 오직 건설적인 피드백과 의견만을 제안합니다.
+@img assets/notion/values/06.jpg | 회고는 성장을 위한 필수 과정입니다.
+@img assets/notion/values/07.jpg | 나이와 연차는 숫자에 불과합니다.
+@img assets/notion/values/08.jpg | 우리는 모두 서로에게 최고의 동료입니다.
 
 
 @@ id=mission | cat=about | group=에너닷 A to Z | icon=🚩 | title=Mission & Vision | url=https://app.notion.com/p/b3078bb32ac7463f88da809b7f2cabb7
@@ -50,6 +57,7 @@
 @@ id=ceo | cat=about | group=Team 소개 | icon=🙍 | title=CEO 인터뷰 | url=https://app.notion.com/p/bcd52856306d4ca7883b9961ecb9117c
 @summary 이동영 대표가 말하는 에너닷의 시작, 앞으로의 변화, 일하는 문화, 10년 후 모습입니다.
 @kw CEO 대표 이동영 DY 인터뷰 창업 IPP 전력거래 인재상 문화
+@img assets/notion/ceo/01.png | 이동영 대표 (DY) 프로필 사진
 ## 이동영 (DY)
 - UC Berkeley / 동국대 AI Bigdata 박사 Candidate / 前 삼성전자 / 前 SEI Co-Founder / 前 펀디드 Co-Founder
 ## 에너닷은 어떻게 시작되었나요?
@@ -71,8 +79,10 @@
 @@ id=teams | cat=about | group=Team 소개 | icon=👩‍👩‍👧‍👦 | title=그룹/팀 소개 | url=https://app.notion.com/p/49828c46bd88462a94ed94c69b878653
 @summary 그룹·팀별 업무와 총괄, 조직도·자리배치도·구성원 연락처 링크입니다.
 @kw 조직도 팀 그룹 자리배치도 자리 연락처 CoS BO CO 플랫폼개발 솔루션 플랫폼기획 AX 전략기획 시스템개발 PO 에너지금융 사업개발 에너지인프라 HR 재무 회계 마케팅
-- 구성원 자리배치도 (구글 슬라이드), 조직도 및 구성원 연락처 (구글 시트), 에너닷 조직도 PDF(2026.09.01 v1)는 Notion 원문 링크에서 확인해요.
+- 구성원 자리배치도 (구글 슬라이드), 조직도 및 구성원 연락처 (구글 시트)는 Notion 원문 링크에서 확인해요.
+- [에너닷 조직도 (PDF, 2026.09.01 v1)](assets/notion/teams/01-org-chart.pdf)
 - 구성원 연락처는 잔디에서도 확인할 수 있어요.
+@img assets/notion/teams/01.png | 잔디 조직도 화면에서 구성원 연락처를 확인하는 예시
 ## 팀 소개
 | 그룹 | 팀 | 업무 내용 | 총괄 |
 | CoS실 (Chief of Staff) | BO팀(Business Operation), CO팀(Corporate Operation) | 사업지원, 마케팅 & PR, 추심 및 compliance, HR(TA & engagement), 재무/회계 | DY (Ryan, Sey) |
