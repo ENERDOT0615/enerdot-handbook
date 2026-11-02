@@ -125,6 +125,7 @@ blockquote{margin:0 0 16px;padding:4px 0 4px 16px;border-left:3px solid var(--gr
 .w{background:var(--blue-soft);border-left:4px solid var(--blue);border-radius:8px;padding:10px 14px;margin:0 0 14px;font-weight:500}
 .w::before{content:"꼭 확인 ";font-weight:700;color:var(--blue);margin-right:4px}
 .tw{overflow-x:auto;margin:0 0 16px;border:1px solid var(--line);border-radius:8px}
+.fig{display:block;margin:0 0 16px}.fig img{display:block;max-width:100%;height:auto;border:1px solid var(--line);border-radius:8px}
 table{border-collapse:collapse;width:100%;font-size:14.5px;min-width:520px}
 th,td{padding:9px 12px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
 th{background:var(--green-soft);font-weight:700;white-space:nowrap}
@@ -241,6 +242,7 @@ function renderBlocks(bs){
     if(b.t==='p')return `<p>${inl(b.x)}</p>`;
     if(b.t==='q')return `<blockquote>${inl(b.x)}</blockquote>`;
     if(b.t==='w')return `<div class="w">${inl(b.x)}</div>`;
+    if(b.t==='img')return `<a class="fig" href="${esc(b.src)}" target="_blank" rel="noopener"><img src="${esc(b.src)}" alt="${esc(b.alt)}" loading="lazy"></a>`;
     if(b.t==='ul')return '<ul>'+b.i.map(x=>`<li>${inl(x)}</li>`).join('')+'</ul>';
     if(b.t==='ol')return '<ol>'+b.i.map(x=>`<li>${inl(x)}</li>`).join('')+'</ol>';
     if(b.t==='ck')return '<ul class="ck">'+b.i.map((x,i)=>`<li><input type="checkbox" aria-label="완료 표시"><span>${inl(x)}</span></li>`).join('')+'</ul>';
@@ -328,6 +330,7 @@ function parseMd(txt){
     if(line.startsWith('## ')){B.push({t:'h',x:line.slice(3)});continue}
     if(line.startsWith('> ')){B.push({t:'q',x:line.slice(2)});continue}
     if(line.startsWith('! ')){B.push({t:'w',x:line.slice(2)});continue}
+    if(line.startsWith('@img ')){const[src,alt='']=line.slice(5).split(' | ');B.push({t:'img',src:src.trim(),alt:alt.trim()});continue}
     if(line.startsWith('| ')){const cells=line.trim().replace(/^\||\|$/g,'').split('|').map(c=>c.trim());
       if(last&&last.t==='tb')last.r.push(cells);else B.push({t:'tb',r:[cells]});continue}
     const m=line.match(/^(- |\d+\. |\[ \] )(.*)$/);

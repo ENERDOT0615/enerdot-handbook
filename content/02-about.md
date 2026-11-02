@@ -2,7 +2,7 @@
 
 @@ id=company | cat=about | group=에너닷 A to Z | icon=🏘️ | title=회사 정보 | url=https://app.notion.com/p/2b3243ca738741ab807b6c34d2246207
 @summary 대표자, 사업자등록번호, 주소, 대표 연락처, 사업자등록증·통장사본, 구역별 와이파이 정보입니다.
-@kw 회사정보 사업자등록번호 법인등록번호 사업자등록증 통장사본 주소 전화 팩스 FAX 고객센터 와이파이 wifi 게스트 guest 대표 설립
+@kw 회사정보 사업자등록번호 법인등록번호 사업자등록증 통장사본 주소 전화 팩스 FAX 고객센터 와이파이 wifi 비밀번호 게스트 guest 대표 설립
 - 추가로 필요한 회사 정보가 있다면 Genie에게 전달해 주세요.
 ## 기본 정보
 - 대표자명: 이동영
@@ -19,11 +19,13 @@
 - 사업자등록증 (2026.07.16 발급, PDF)
 - 통장사본 (PDF)
 ## 구역별 와이파이
-- 시스템: enerdot_tech
-- 금융 / 사업개발 / DS / CoS: enerdot_office1
-- 플랫폼 / 전략기획 / PO / 인프라: enerdot_office2
-- 회의실(M1·M2) / 손님용: enerdot_guest
-- 접속 비밀번호는 각 팀장에게 문의해요.
+@img assets/wifi-map.jpg | 구역별 와이파이 배치도
+| 와이파이 (ID) | 비밀번호 (PW) |
+| enerdot_tech | envision_tech |
+| enerdot_office1 | envision_bd |
+| enerdot_office2 | envision_88 |
+| enerdot_guest | enerdot2026! |
+- 내 자리 구역의 와이파이는 위 배치도에서 확인해요. 이미지를 누르면 크게 볼 수 있어요.
 @note 사업자등록증과 통장사본 PDF는 Notion 원문에서 내려받으세요.
 
 
