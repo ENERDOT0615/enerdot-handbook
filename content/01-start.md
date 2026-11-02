@@ -181,11 +181,36 @@
 @img assets/notion/flex/32.png | 신청 유형에 따라 필수 항목 작성 후 제출 (Software 구매 신청 예시)
 
 
-@@ id=gws | cat=start | group=협업툴 101 | icon=📧 | title=구글워크스페이스 | url=https://app.notion.com/p/1cc39af206f446de960229e028370c79
+@@ id=gws | cat=start | group=협업툴 101 | icon=📧 | title=구글워크스페이스 | url=https://app.notion.com/p/1cc39af206f446de960229e028370c79 | new=2026-11-02
 @summary 구글 워크스페이스(메일, 캘린더, 드라이브 등) 활용 가이드 모음입니다.
-@kw 구글 구글워크스페이스 지메일 메일 캘린더 드라이브 구글독스 시트
-- 업무 생산성을 높이는 구글 워크스페이스 활용 팁을 이용가이드 데이터베이스로 정리해 두었어요.
-@note 이용가이드는 Notion 데이터베이스로 되어 있어 세부 항목은 Notion 원문에서 확인하세요.
+@kw 구글 구글워크스페이스 지메일 메일 캘린더 드라이브 구글독스 시트 서명 시그니처 Meet 화상회의 회의실 법인차량 슬라이드
+- 업무 생산성을 높이는 구글 워크스페이스 활용 팁이에요.
+## Gmail
+@img assets/notion/gws/gmail.svg | Gmail
+- **이메일 서명 설정:** 모든 구성원에게 같은 회사 서명이 자동으로 설정돼 있어요. 발신인 정보는 직접 설정해 주세요. (설정 > ‘일반’ 탭 > 서명)
+> 이름 (영문 닉네임) / 직급 | 팀 / M. 전화번호 | E. 이메일 주소
+@img assets/notion/gws/gmail-01.png | 서명 예시: 이름(영문닉네임), 직급·팀, 전화번호, 이메일
+- 서명을 만든 뒤 아래처럼 기본 서명으로 지정해야 자동으로 들어가요.
+@img assets/notion/gws/gmail-02.png | 새 이메일·답장 시 사용할 서명을 enerdot으로 지정
+- **이름 설정:** 받는 사람에게 보이는 이름을 직접 바꿀 수 있어요. (설정 > ‘계정’ 탭 > 다른 주소로 메일 보내기 > ‘정보 수정’)
+- [Gmail 공식 이용 가이드](https://support.google.com/a/users/answer/9297685?hl=ko)
+## Google Calendar
+@img assets/notion/gws/calendar.svg | Google Calendar
+- **회의실 예약:** [[workspace]]의 회의실 예약 방법을 확인해요. 회의실 예약은 최대 1시간 이내로 해요.
+- **법인차량 신청:** [[car]]의 법인차량 예약하기를 확인해요.
+- [Google Calendar 공식 이용 가이드](https://support.google.com/a/users/answer/9290350)
+## Google Drive
+@img assets/notion/gws/drive.svg | Google Drive
+- **Google Docs:** Word 같은 온라인 문서 편집기예요. 팀원과 간편하게 공유하고 함께 고치며, 댓글과 멘션으로 같이 작업할 수 있어요.
+- **Google Sheets:** Excel 같은 온라인 스프레드시트예요. 공유, 공동 편집, 댓글·멘션을 똑같이 쓸 수 있어요.
+- **Google Slides:** PowerPoint 같은 온라인 슬라이드 도구예요. 공유, 공동 편집, 댓글·멘션을 똑같이 쓸 수 있어요.
+- **문서 공유하기:** 상대방 권한(보기, 댓글, 편집)을 정할 수 있고, 이전 버전으로 되돌리거나 수정 이력을 볼 수 있어요. 공유한 팀원에게 소유권을 넘길 수도 있어요.
+- [Google Drive 공식 이용 가이드](https://support.google.com/a/users/topic/13022956)
+## Google Meet
+@img assets/notion/gws/meet.svg | Google Meet
+- **화상회의 링크 공유:** 캘린더로 일정을 만들고, 만든 일정을 누르면 ‘Google Meet로 참여’ 링크를 확인해 공유할 수 있어요.
+- **화상회의 에티켓:** 회의 시간에 늦지 않게 들어오고, 들어오기 전에 카메라와 마이크를 확인해요. 상대방이 말할 때는 끊거나 동시에 말하지 말고, 발표 중에는 다른 일을 하지 않고 끝까지 들어 주세요.
+- [Google Meet 공식 이용 가이드](https://support.google.com/a/users/topic/13265288)
 
 
 @@ id=brand | cat=start | group=협업툴 101 | icon=🎨 | title=브랜드 가이드 | url=https://app.notion.com/p/d0255a2f02a848d493a9f9dd09866ac3
