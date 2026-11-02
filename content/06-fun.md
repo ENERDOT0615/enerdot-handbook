@@ -73,13 +73,125 @@
 - 자세한 휴가 규정은 취업규칙을 참고하세요. → [[rules]]
 
 
-@@ id=townhall | cat=fun | group=우리가 즐기는 방식 | icon=👔 | title=타운홀데이 | url=https://app.notion.com/p/1a7fb388f40944e0ae1b2827b0080060
-@summary 부서별 소식과 CoS실 공지, 인사이트를 나누는 분기별 타운홀데이입니다.
-@kw 타운홀 타운홀데이 타운홀미팅 전사 공지 뉴스레터 분기
+@@ id=townhall | cat=fun | group=우리가 즐기는 방식 | icon=👔 | title=타운홀데이 | url=https://app.notion.com/p/1a7fb388f40944e0ae1b2827b0080060 | new=2026-11-02
+@summary 부서별 소식과 CoS실 공지, 인사이트를 나누는 분기별 타운홀데이와 회차별 기록입니다.
+@kw 타운홀 타운홀데이 타운홀미팅 전사 공지 뉴스레터 분기 세미나 사업계획 워크샵 발표자료 페르소나 도자기 문제해결 가이드북 조직개편
 - 부서별 소식과 CoS실의 중요한 공지, 다양한 인사이트를 나누는 자리예요.
 - 분기별로 주제를 정해 열리고, 마지막에는 다과를 나누며 화합하는 시간도 있어요.
 - 참석하지 못한 팀원에게는 뉴스레터로 배포해요.
-@note 회차별 타운홀데이 기록은 Notion 데이터베이스로 되어 있어 Notion 원문에서 확인하세요.
+- 아래에 회차별 기록을 최신순으로 모아 두었어요.
+
+## 2025년 2분기 타운홀데이
+본사에서 UX팀, DS팀, 운영팀(HR, 경영) 파트의 주요 변화와 시스템을 소개하고, 바뀐 정책과 가이드를 안내했어요.
+- 각 팀이 어떤 업무를 체계적으로 하고 있는지, 에너닷 서비스 고도화를 위해 어떤 노력을 하는지, 하반기 로드맵까지 함께 나눴어요.
+- 분기마다 열리는 노사협의회 안건을 바탕으로 바뀌거나 새로 생긴 HR 제도와, 실무에서 중요한 문서 관리법도 다시 안내했어요.
+**발표 순서와 자료**
+- 엔비전 개발 현황 및 하반기 기획 로드맵 (UX팀 팀장 Ethan)
+- [UX팀 발표자료 (PDF)](assets/notion/townhall/2025q2-ux.pdf)
+@img assets/notion/townhall/2025q2-01.png | UX팀 업무 플로우 & 업데이트 안내 표지
+- 발전량 예측 시스템 소개 (DS팀 Anna)
+- [DS팀 발표자료 (PDF)](assets/notion/townhall/2025q2-ds.pdf)
+@img assets/notion/townhall/2025q2-02.png | DS팀 발전량 예측 시스템 소개 표지
+- 하반기 HR 지원제도 변경정책 안내 (운영팀 Jinny)
+- [운영팀 HR 지원정책 발표자료 (PDF)](assets/notion/townhall/2025q2-hr.pdf)
+@img assets/notion/townhall/2025q2-03.png | HR 지원제도 하반기 변경 정책 안내 표지
+- 문서 보안 및 보관관리체계 가이드 (운영팀 Sally)
+- [운영팀 문서관리 발표자료 (PDF)](assets/notion/townhall/2025q2-docs.pdf)
+@img assets/notion/townhall/2025q2-04.png | 문서 보안 및 보관관리체계 가이드 표지
+
+## 2025년 1분기 타운홀데이
+2025년 첫 타운홀데이는 본사 메인 사무공간에서 2025년 사업계획을 전사에 공유하는 세미나로 열렸어요.
+- 새 정책과 그에 맞춘 새 사업을 준비하는 현황을 자세히 들을 수 있었어요.
+@img assets/notion/townhall/2025q1-01.png | 추진계획 1) 기술 개발: VPP 감시 제어, ESS-EMS, 기상데이터 서비스 플랫폼
+@img assets/notion/townhall/2025q1-02.png | 추진계획 1) 기술 개발: 분기별 플랫폼 개발 pipeline
+@img assets/notion/townhall/2025q1-03.png | 추진계획 2) IPP 개발 & 에너지 금융: IPP 25MW+, VPP 300MW+, 자체 펀딩 + asset co
+@img assets/notion/townhall/2025q1-04.png | 추진계획 3) 에너지 인프라(O&M): 관리 발전소 현황과 2025년 추가 100MW+ 확보 목표
+- 2025년 1월부터 서비스를 더 체계적으로 제공하기 위해 조직 개편이 있었고, 개편된 조직별 담당 업무도 자세히 안내했어요.
+@img assets/notion/townhall/2025q1-05.png | 조직 별 담당 업무 소개 표
+- [2025년 1분기 타운홀데이 발표자료 (PDF)](assets/notion/townhall/2025q1-slides.pdf)
+
+## 2024년 4분기 타운홀데이
+2024년을 마무리하며 곤지암리조트로 다녀온 워크샵에서 4분기 타운홀과 세미나를 함께 진행했어요. 2025년 '주식회사 인업스'와 함께하게 되어 양사가 한자리에 모였어요.
+- 2024년에는 제주 재생에너지 입찰제도 사업 본격 참여, VPP 사업자 서비스 강화, 엔비전 앱 서비스 전면 업데이트, 자사 IPP 태양광 사업 확대까지 여러 사업을 진행했어요.
+- 워크샵 테마는 'ONE TEAM 에너닷 [team, vision, mission, goal]'이었고, 로고를 새긴 단체 티셔츠와 다이어리·손난로 기념품을 나눴어요.
+@img assets/notion/townhall/2024q4-01.png | 워크샵 시작과 단체 티셔츠·기념품
+- **친해지길 바라요**: 조별로 성향을 파악해 이모지와 그림으로 발표했고, 조장에게는 소정의 선물을 드렸어요.
+@img assets/notion/townhall/2024q4-02.png | 조별 성향 파악 발표 시간
+- **4분기 타운홀 및 세미나**: 대표이사 DY님이 2024년 성과와 '인업스'와의 합병 법인 설립으로 기대되는 시너지를, 전략기획팀 Patrick 이사님이 VPP 시장 트렌드와 에너닷의 핵심 역량을, 인업스 김형준 이사님이 인업스의 사업과 기대 성과를 소개했어요.
+@img assets/notion/townhall/2024q4-03.png | Day1 세미나 발표 현장
+- **레크리에이션**: 개그맨 양배차님과 함께 '팀 단체 회식권'을 걸고 겨뤘고, '야망조'가 1등을 했어요.
+@img assets/notion/townhall/2024q4-04.png | 레크리에이션 현장
+- **BBQ와 자유 시간**: 저녁을 함께 먹고, 잔디 '워크샵 토픽'방에서 실시간으로 소식을 나눴어요. 치킨 배달 지원으로 1일차를 마무리했어요.
+@img assets/notion/townhall/2024q4-05.png | BBQ 식사와 자유 시간
+- **ONE TEAM 도미노**: 2일차에는 조별로 워크샵 테마 글자를 도미노로 완성해 하나로 이었어요. 도미노 MVP는 6조가 받았어요.
+@img assets/notion/townhall/2024q4-06.jpg | 팀빌딩 도미노
+- **시상식**: 워크샵에 열심히 참여한 팀원들에게 선물을 드렸고, 워크샵 MVP도 뽑았어요.
+@img assets/notion/townhall/2024q4-07.png | 시상식
+
+## 2024년 3분기 타운홀데이
+사무실 인근 세미나룸을 빌려 외부 강사님을 모시고 업무에 도움이 되는 교육을 들었어요.
+> 일시: 2024년 10월 10일 오후 4시 ~ 6시 / 강의 제목: 문제 해결 전문 교육 / 강의 내용: 실제 겪고 있는 문제를 기반으로 원리를 통해 해결하는 방법
+- 팀별로 실제 직면한 문제를 논의하고, 강의에서 배운 공식을 적용해 해결해 봤어요.
+@img assets/notion/townhall/2024q3-01.jpg | 문제 해결 교육 중 팀별 토론 모습
+@img assets/notion/townhall/2024q3-02.jpg | 팀별 문제 해결 과정 1
+@img assets/notion/townhall/2024q3-03.jpg | 팀별 문제 해결 과정 2
+@img assets/notion/townhall/2024q3-04.jpg | 팀별 문제 해결 과정 3
+@img assets/notion/townhall/2024q3-05.jpg | 팀별 문제 해결 과정 4
+@img assets/notion/townhall/2024q3-06.jpg | 팀별 문제 해결 과정 5
+- 가장 잘 해결한 팀을 투표로 뽑아 **에너지인프라팀**이 1등을 했어요.
+**완성된 팀별 문제 해결 방법**
+- 전략기획팀: 태양광 관련 서비스 점유율이 낮은 문제
+@img assets/notion/townhall/2024q3-07.jpg | 전략기획팀 문제 해결 결과물
+- 에너지인프라팀: 체계적인 계획 수립이 부족한 문제
+@img assets/notion/townhall/2024q3-08.jpg | 에너지인프라팀 문제 해결 결과물
+- 플랫폼개발팀: 업무 공유가 잘 되지 않는 문제
+@img assets/notion/townhall/2024q3-09.jpg | 플랫폼개발팀 문제 해결 결과물
+- 플랫폼개발팀 DS파트: 일할 때 혼잣말을 많이 하는 문제
+@img assets/notion/townhall/2024q3-10.jpg | 플랫폼개발팀 DS파트 문제 해결 결과물
+- 어드민팀: 전사 업무 소통이 원활하지 않은 문제
+@img assets/notion/townhall/2024q3-11.jpg | 어드민팀 문제 해결 결과물
+- 시스템개발팀: 개개인이 생각하는 문제
+@img assets/notion/townhall/2024q3-12.jpg | 시스템개발팀 문제 해결 결과물
+
+## 2024년 2분기 타운홀데이
+도자기 체험과 미술테라피를 함께 했어요.
+@img assets/notion/townhall/2024q2-01.jpg | 2분기 타운홀데이 현장
+**에너닷 팀원들의 페르소나**
+- 페르소나는 '연극에서 쓰는 탈'이라는 뜻이에요. 회사에서의 내 모습을 가면 그림으로 그려 팀원들에게 발표했어요.
+@img assets/notion/townhall/2024q2-02.jpg | 팀원들이 그린 페르소나 가면 그림
+@img assets/notion/townhall/2024q2-03.jpg | 페르소나 가면 그리기 1
+@img assets/notion/townhall/2024q2-04.jpg | 페르소나 가면 그리기 2
+@img assets/notion/townhall/2024q2-05.jpg | 페르소나 가면 그리기 3
+**각자의 페르소나 발표**
+- 그림에서 각자의 개성이 드러나 재미있었고, 몰랐던 모습도 발견할 수 있었어요.
+@img assets/notion/townhall/2024q2-06.jpg | 페르소나 발표 모습 1
+@img assets/notion/townhall/2024q2-07.jpg | 페르소나 발표 모습 2
+@img assets/notion/townhall/2024q2-08.jpg | 페르소나 발표 모습 3
+@img assets/notion/townhall/2024q2-09.jpg | 페르소나 발표 모습 4
+@img assets/notion/townhall/2024q2-10.jpg | 페르소나 발표 모습 5
+**도자기 체험**
+- 각자 원하는 모양의 도자기를 만들었고, 누가 만들었는지 맞춰 보는 재미도 있었어요.
+@img assets/notion/townhall/2024q2-11.jpg | 도자기 체험 1
+@img assets/notion/townhall/2024q2-12.jpg | 도자기 체험 2
+@img assets/notion/townhall/2024q2-13.jpg | 도자기 체험 3
+@img assets/notion/townhall/2024q2-14.jpg | 도자기 체험 4
+@img assets/notion/townhall/2024q2-15.jpg | 도자기 체험 5
+**2분기 타운홀데이 영상**
+- [2분기 타운홀데이 영상 (MP4, Notion 원문에서 보기)](https://app.notion.com/p/9c4a32b90f484748a18c31a4decceeca)
+
+## 2024년 1분기 타운홀데이
+2024년 개편을 맞이한 첫 타운홀데이예요. 앞으로 전사 이슈 공유뿐 아니라 매번 다른 주제로 소통하고, 함께 체험하는 활동도 준비한다고 안내했어요.
+@img assets/notion/townhall/2024q1-01.jpg | 2024년 첫번째 타운홀 데이 발표 화면
+@img assets/notion/townhall/2024q1-02.jpg | 1분기 타운홀데이 현장
+**조직 개편 사항 / 변경 규정 안내**
+- '잔디'로 안내했던 조직 개편과 출장, 외근, 업무지원 등 여러 내용을 리마인드 차 다시 공유했어요.
+- [에너닷 공지사항 (PDF)](assets/notion/townhall/2024q1-notice.pdf)
+**가이드북 개편**
+- 회사 기본 정보부터 협업툴 사용법, 각종 업무 규율과 정보를 담은 가이드북을 전면 개편했어요. 앞으로 바뀌는 내용도 모두 업데이트할 예정이에요.
+@img assets/notion/townhall/2024q1-03.png | 개편된 에너닷 생활백서 첫 화면
+**에너닷이 쏜다!**
+- 마무리로 따끈한 베이글과 커피를 준비해 함께 먹었어요.
+@img assets/notion/townhall/2024q1-04.jpg | 베이글과 커피 간식
 
 
 @@ id=club | cat=fun | group=우리가 즐기는 방식 | icon=🚴 | title=사내동호회 | url=https://app.notion.com/p/75d96c1aaffb4d92a317c4ca8a652b6d
