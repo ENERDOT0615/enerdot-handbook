@@ -103,7 +103,7 @@
 - **경조사 신청**
 
 
-@@ id=pc | cat=help | group=업무 지원 | icon=💻 | title=PC 가이드 | url=https://app.notion.com/p/2f606d84bbf4800eb7a8dc81cad0b2e9
+@@ id=pc | cat=help | group=업무 지원 | icon=💻 | title=PC 가이드 | url=https://app.notion.com/p/2f606d84bbf4800eb7a8dc81cad0b2e9 | new=2026-11-04
 @summary 2026년 직군별 노트북 표준 사양, 교체 기준, 입사·퇴사 시 노트북 운영 가이드입니다.
 @kw PC 노트북 컴퓨터 맥북 Mac 그램 갤럭시북 사양 교체 반납 퇴사 입사 분실 파손 업그레이드
 - 업무 효율과 자산 관리를 위한 사내 노트북 기종 및 운영 기준(2026년)이에요.
@@ -111,7 +111,7 @@
 | 직군 | 모델 | CPU | 메모리 | 저장장치 |
 | 일반 사무직 (Windows) | LG 그램 2026 / 삼성 갤럭시북5 | Intel Core Ultra 5 | 16GB | SSD 256GB (필요 시 512GB) |
 | 개발/디자인 (Windows) | LG 그램 프로 AI / 삼성 갤럭시북5 프로 | Intel Core Ultra 5 | 16GB (필요 시 32GB) | SSD 512GB~1TB |
-| 개발/디자인 (Mac) | MacBook Pro 14 | Apple M5 | 16GB (필요 시 32GB) | SSD 1TB |
+| 개발/디자인 (Mac) | MacBook Pro 14 | Apple M5 | 16GB (필요 시 32GB) | SSD 512GB~1TB |
 ## 교체 기준
 - 교체 시기는 **취득일 기준 5년**이 원칙이에요.
 - 지속적인 성능 저하나 직무 변경으로 사양이 크게 부족하면 조기 교체할 수 있어요. CoS실 Henry 검토·승인 후 진행해요.
