@@ -73,7 +73,7 @@
 - 자세한 휴가 규정은 취업규칙을 참고하세요. → [[rules]]
 
 
-@@ id=townhall | cat=fun | group=우리가 즐기는 방식 | icon=👔 | title=타운홀데이 | url=https://app.notion.com/p/1a7fb388f40944e0ae1b2827b0080060 | new=2026-11-02
+@@ id=townhall | cat=fun | group=우리가 즐기는 방식 | icon=👔 | title=타운홀데이 | url=https://app.notion.com/p/1a7fb388f40944e0ae1b2827b0080060
 @summary 부서별 소식과 CoS실 공지, 인사이트를 나누는 분기별 타운홀데이와 회차별 기록입니다.
 @kw 타운홀 타운홀데이 타운홀미팅 전사 공지 뉴스레터 분기 세미나 사업계획 워크샵 발표자료 페르소나 도자기 문제해결 가이드북 조직개편
 - 부서별 소식과 CoS실의 중요한 공지, 다양한 인사이트를 나누는 자리예요.
